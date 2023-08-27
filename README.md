@@ -1,4 +1,4 @@
-![image](https://github.com/ErfanPanahi/Classifying-CIFAR10-Dataset-Using-Neural-Networks/assets/107314081/d67226ff-918f-4100-95e6-c0ee44a71190)# Classifying-CIFAR10-Dataset-Using-Neural-Networks
+# Classifying-CIFAR10-Dataset-Using-Neural-Networks
 In this repository, I am working on classifying the CIFAR10 dataset using neural networks. To achieve this, I initially perform classification using an MLP network. Then, to enhance the network's performance and reduce learning time, I employ convolutional layers, pooling, batch normalization, and dropout layers.
 
 First, we enter the data using the provided instructions in the following format.
